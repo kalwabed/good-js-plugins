@@ -1,7 +1,8 @@
 repo_name: kalwabed/good-js-plugins
 report_id: 4b6da6f7347b54001a3114374a541130
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T12:50:34+00:00'
+timestamp: '2024-01-05T08:54:09+00:00'
 requested_by: kalwabed
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kalwabed/good-js-plugins
   detection_source: Repo Metadata
